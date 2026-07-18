@@ -1,0 +1,36 @@
+{
+  "name": "Format JSON \u2014 runlocally",
+  "short_name": "Format JSON",
+  "description": "Format, minify, and validate JSON in your browser. Nothing is uploaded. Works offline.",
+  "start_url": "/format-json/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "scope": "/format-json/",
+  "icons": [
+    {
+      "src": "/format-json/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/format-json/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "prefer_related_applications": false,
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  }
+}

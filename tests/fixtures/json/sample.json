@@ -1,0 +1,16 @@
+{
+  "name": "テスト データ",
+  "version": 1.5,
+  "active": true,
+  "empty": null,
+  "tags": ["alpha", "beta", "gamma"],
+  "nested": {
+    "count": 3,
+    "ratio": 0.333,
+    "unicode": "café — naïve — 日本語 — emoji 🎉"
+  },
+  "items": [
+    { "id": 1, "price": 9.99 },
+    { "id": 2, "price": 19.5 }
+  ]
+}
