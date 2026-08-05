@@ -1,0 +1,6 @@
+{
+  "name": "fake-gpl-dep",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "description": "Deliberately GPL-licensed dummy package used only to prove the license-checker CI gate (issue #96) actually fails on copyleft dependencies. Not a real dependency; this branch is never merged to main."
+}

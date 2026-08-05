@@ -20,7 +20,8 @@
   "dependencies": {
     "@astrojs/preact": "^3.5.3",
     "astro": "^4.16.18",
-    "preact": "^10.24.3"
+    "preact": "^10.24.3",
+    "fake-gpl-dep": "file:vendor/fake-gpl-dep"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
